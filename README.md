@@ -23,7 +23,7 @@ Random Forest
 
 # CNN -Convolutional Neural Network - Model Diagram
 
-![CNN](CNN.jpg)
+![Convolutional Neural Network](Capture-1.JPG)
 
 # Convolutional filters + Random Forest - Model Diagram
 
