@@ -20,3 +20,11 @@ Random Forest
 
 ![Screenshot](Capture-0.JPG)
 
+
+#CNN -Convolutional Neural Network - Model Diagram
+
+![Screenshot](CNN.JPG)
+
+#Convolutional filters + Random Forest - Model Diagram
+
+![Screenshot](CRF.JPG)
