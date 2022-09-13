@@ -27,4 +27,4 @@ Random Forest
 
 #Convolutional filters + Random Forest - Model Diagram
 
-![CRF](CRF.JPG)
+![CRF](CRF.png)
