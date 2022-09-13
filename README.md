@@ -18,12 +18,12 @@ CNN -Convolutional Neural Network.
 DL -Deep Learning.
 Random Forest
 
-![Screenshot](Capture-0.png)
+![Screenshot](Capture-0.JPG)
 
 
 # CNN -Convolutional Neural Network - Model Diagram
 
-![CNN](CNN.png)
+![CNN](CNN.PNG)
 
 # Convolutional filters + Random Forest - Model Diagram
 
