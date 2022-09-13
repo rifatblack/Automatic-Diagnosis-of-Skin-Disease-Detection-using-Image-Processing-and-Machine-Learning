@@ -10,4 +10,13 @@ To implement a new systematic approach with a combination of Image Processing an
 
 To get better accuracy working on the mixture of two (2) different algorithms, Convolutional Neural Network (CNN) and Random Forest (RF) 
 
+# Methodology
+Step:
+Image Processing
+Image Classification
+CNN -Convolutional Neural Network.
+DL -Deep Learning.
+Random Forest
+
+![Screenshot](Capture-0.JPG)
 
